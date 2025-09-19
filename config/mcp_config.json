@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "notionMCP": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp.notion.com/mcp",
+        "--debug"
+      ]
+    }
+  }
+}

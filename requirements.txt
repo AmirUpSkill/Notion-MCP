@@ -1,0 +1,4 @@
+mcp-use
+langchain
+langchain-google-genai
+python-dotenv
